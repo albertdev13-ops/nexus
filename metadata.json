@@ -1,0 +1,9 @@
+{
+  "name": "NEXIS - Jarvis Offline AI Assistant",
+  "description": "Assistant intelligent local 100% hors-ligne style Jarvis avec streaming mot par mot, synthèse vocale masculine Piper TTS, visualiseur holographique live et exécution de commandes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
